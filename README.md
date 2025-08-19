@@ -44,6 +44,7 @@ The outcome of this project is a professional and automated reporting tool that 
 ---
 # Project Screenshot
 <img width="1855" height="700" alt="image" src="https://github.com/user-attachments/assets/b844f66a-b6b4-4253-b2d3-2bbd7a2977ab" />
----
-**Created by** - ***Varun Raj*** [LinkedIn Profile]([url](https://www.linkedin.com/in/varun-raj-bokaro/))
+
+
+**Created by** - ***Varun Raj*** [Linkedin Profile](https://www.linkedin.com/in/varun-raj-bokaro/)
     

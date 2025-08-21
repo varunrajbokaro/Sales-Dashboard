@@ -23,7 +23,7 @@ The dashboard was created using several advanced Excel features. Power Query was
    * This KPI will highlight the ***Top 10 Cities*** on the basis of profit.
    * Mangement can understand the patterns from these cities and implement in other cities to increase the profit there.
 
-# Filters in the Slicers
+# Filtering the Dashboard
   * To filter the data in the dashboard, there are three slicers and by using these slicers the dashboard can be filtered :
        * **Customer Segment** :
          * Consumer
